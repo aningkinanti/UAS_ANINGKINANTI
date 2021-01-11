@@ -1,4 +1,4 @@
-# - Uas Bahasa Pemrograman -
+# UAS BAHASA PEMROGRAMAN
 
 | NAMA | NIM | KELAS | MATAKULIAH |
 | -- | --- | ---- | ----------- |
