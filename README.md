@@ -49,7 +49,7 @@ Yang memiliki fungsi untuk mencari data yang telah diinputkan berdasarkan nama. 
 
 PGambar diatas merupakan contoh dari opsi 'h' atau hapus data. <br>
 Yang memiliki fungsi untuk menghapus data yang telah diinputkan berdasarkan nama. <br>
-Untuk memastikan kembali apakah data sudah terhapus, user dapat memilih opsi 'l'. <br.>
+Untuk memastikan kembali apakah data sudah terhapus, user dapat memilih opsi 'l'. <br>
 
 
 
